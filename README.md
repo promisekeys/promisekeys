@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahamefula Promise Nzubechi
 
-<!--
-**promisekeys/promisekeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about building clean, responsive, and user-friendly websites. I love learning new technologies and turning ideas into real digital experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I'm currently learning...
+- **JavaScript** – mastering the fundamentals and ES6+
+- **React.js** – creating dynamic and reusable UI components
+
+### 🚧 I'm currently working on...
+- A responsive web project to improve my portfolio and showcase my skills
+
+### 🤝 I'm looking for help with...
+- Connecting with other **tutors** or developers for collaboration and knowledge sharing
+
+### 💬 Ask me about...
+- HTML, CSS, and JavaScript
+- Getting started with frontend development
+- Building simple, responsive websites
+
+### 📫 How to reach me:
+- WhatsApp: **+234 701 854 2294**
+- Email: **ahamefulapromise03@gmail.com**
+- GitHub: [@promisekeys](https://github.com/promisekeys)
+
+### 🧑‍🦱 Pronouns:
+He / Him
+
+### 💡 Fun fact:
+I can teach you how to **code HTML in under 30 minutes** – even if you're a total beginner!
+
+---
+
+*Thanks for visiting my profile!*
+
